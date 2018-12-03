@@ -1,0 +1,22 @@
+{
+    "button": [
+        {
+            "name": "Main Menu",
+            "sub_button": [
+                {	
+                    "type": "click",
+                    "name": "English",
+                    "key": "en"
+                },
+                {	
+                    "type": "click",
+                    "name": "Chinese - 中文(简体)",
+                    "key": "zh_cn"
+                },
+                {	
+                    "type": "click",
+                    "name": "Chinese - 中文(HKG)",
+                    "key": "zh_hk"
+                }]
+        }]
+}

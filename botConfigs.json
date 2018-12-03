@@ -1,0 +1,16 @@
+[
+  	{
+  		"client": "LINE_IBCS",
+  		"config": {
+			"platformVersion": "1.1",
+			"customTranslate": "false",
+  			"botName": "BotDemo",
+  			"channelID": "1608647587",
+  			"accessToken": "mEzsc6/4BGZ8wRzuXZV/Ow9SkJHRXm6sQK18UrFo47fjiQR6ggBvr+kMZ0H7TPQixQD63hEENH7gbtXmWBhj4Ii0KAD+2HzZBUZLCSLno7AqpGlZm6Nm9lX2NpZK733LTXWspp2dMfPquUj2KHpm/QdB04t89/1O/w1cDnyilFU=",
+  			"appSecret": "d3bf1c033a14e13a27dba1ba322e7ff6",
+  			"hashAlgorithm": "sha256",
+  			"msgSharedSecret": "XEvfBYxS1vDSMgXa5udwjFputmTxHPMX",
+  			"msgReceiverEndUrl": "https://AMCE0751326502QSbmxp-gse00014538.mobile.ocp.oraclecloud.com:443/connectors/v1/tenants/idcs-4fcb2521a9d24d968d1694cb9bdc540e/listeners/webhook/channels/7D91AAAE-7321-42DB-A379-E216A1F32B52"
+  		}
+  	}
+]
