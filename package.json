@@ -22,7 +22,7 @@
     "express": "^4.14.0",
     "fs": "0.0.1-security",
     "jsonschema": "^1.1.0",
-    "line-messaging": "^1.1.6",
+    "line-messaging": "1.1.6",
     "moment": "^2.16.0",
     "multer": "^1.2.0",
     "request": "^2.79.0",
@@ -35,9 +35,6 @@
   },
   "devDependencies": {
     "jasmine": "^2.5.2"
-  },
-  "scripts": {
-    "prepublish": "zip -r target/ChatbotConnector.zip node_modules connectors schemas utils manifest.json botConfigs.json *.js"
   },
   "engines": {
     "node": ">=0.12.0"
